@@ -1,4 +1,4 @@
-require "sqlite3"
+# require "sqlite3"
 require "active_record"
 
 module RspecProfiling
